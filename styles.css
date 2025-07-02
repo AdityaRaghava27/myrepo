@@ -1,0 +1,49 @@
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Heading styling */
+h1 {
+  color: #007acc;
+  text-align: center;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* List styling */
+ul {
+  list-style-type: square;
+  padding-left: 40px;
+}
+
+/* List item styling */
+li {
+  margin-bottom: 8px;
+}
+
+/* Link styling */
+a {
+  display: block;
+  width: fit-content;
+  margin: 20px auto;
+  text-decoration: none;
+  background-color: #007acc;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #005f99;
+}
+
